@@ -1,6 +1,6 @@
 # Olá, Eu sou Nilton Oliveira ✨
 
-Eu tenho 21 anos e sou desenvolvedora jr, estou cursando Analise E Desenvolvimento de Sistemas. Estou focado em desenvolvimento web full-stack e soft skills voltadas para a entrada no mercado de trabalho.
+Eu tenho 21 anos e sou desenvolvedora jr, estou cursando Analise E Desenvolvimento de Sistemas. Meu foco é em desenvolvimento web full-stack e soft skills voltadas para a entrada no mercado de trabalho.
 
 ### Tecnologias que uso no meu dia ⚡
 
@@ -15,7 +15,10 @@ Eu tenho 21 anos e sou desenvolvedora jr, estou cursando Analise E Desenvolvimen
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
+
 <br/>
+
+Procurando um desenvolvedor junior? Entre em contado comigo nas minhas redes socias! 
 
 ### Rede Sociais 🌎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-oliveira-link/)
