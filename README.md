@@ -18,8 +18,6 @@ Eu tenho 21 anos e sou desenvolvedora jr, estou cursando Analise E Desenvolvimen
 
 <br/>
 
-Procurando um desenvolvedor junior? Entre em contado comigo nas minhas redes socias! 
-
 ### Rede Sociais 🌎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-oliveira-link/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NiltonO96412069)
