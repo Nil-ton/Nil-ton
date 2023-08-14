@@ -1,7 +1,5 @@
 # Olá, Eu sou Nilton Oliveira ✨
 
-Eu tenho 21 anos e sou desenvolvedora jr, estou cursando Analise E Desenvolvimento de Sistemas. Meu foco é em desenvolvimento web full-stack e soft skills voltadas para a entrada no mercado de trabalho.
-
 ### Tecnologias que uso no meu dia ⚡
 
 <div style="display: inline_block">
